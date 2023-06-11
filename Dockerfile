@@ -24,4 +24,4 @@ ENV GPT_API_TOKEN=<your_gpt_api_token>
 EXPOSE <port_number>
 
 # Run the application
-CMD [ "python", "your_script_name.py" ]
+CMD [ "python", "slackchatbot.py" ]
